@@ -13,7 +13,7 @@ All commit dates are accurate.
 ## Release Information
 
 **Platform:** Playstation 1  
-**Game:** Tony Hawk's Underground  
+**Game:** Spongebob Squarepants: SuperSponge
 **Type:** Source Code - Complete, Buildable, Version Control history.  
 **Source:**  
  - https://github.com/philosophofee/SBSPSS  
